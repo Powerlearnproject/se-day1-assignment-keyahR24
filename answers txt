@@ -1,0 +1,46 @@
+Software engineering applies engineering principles, methods and tools to develop and maintain high quality software systems. 
+importance of software engineering is that it enables the creation of software application that power various aspects of modern life including communication.
+
+Three key milestones in the evolution of software engineering are
+ -development of programming languages such as C
+ -The establishment of software engineering as a discipline which has helped in development of softare sysytems.
+-The advent of structured programming and agile methodologies.
+
+phases of software development life cycle are
+-Requirements which include gathering and documenting user needs and system requirements.
+-Design which involves creating high detailed designs of the software architecture and user interface.
+-Implementation which involves writing code and building the software according to the design specifications.
+-Testing which involves conducting various tests to ensure the software meets quality standards and functional requirements.
+-Deployment which involves releasing the software to users or customers.
+-Maintenance which involves providing ongoing support, updates and enhancement to the software after deployment
+
+comparison and contrast of agile methodologies
+-waterfall is a sequential approach with distinct phases flowing down like a waterfallwhile agile is iterative and icremental approach focused on flexibility, collaboration and responding to change.
+
+Roles and responsibilities of
+-Software developer,responsible for writing codes and implementing software solutions
+-quality assurance manager,ensure software quality by designing and executing test plans.
+-project manager,oversees the planning, execution and delivery of software projects.
+
+Importances of IDES and VCS in the software development process
+-IDES,provides comprehensive tools for writing, debugging and testing code such as the VS Code
+-VCS, used to track changes to source code and coordinating work among team members such as git and subversion.
+
+Common challenges by software engineers and strategies to overcome
+- challnges are tight deadlines
+-changing requirements
+-technical debt
+strategies to overcome- effective communication, agile methodologies, prioritization of tasks and regular reassesment of project tasks.
+
+Different types of testing and importance
+- testing types are unit testing,intergration testing, system testing and acceptance testing.
+-importance of testing is that it ensures products reach quality standards.
+
+Prompt engineering and its importances
+-prompt engineering is the crafting of questions to get the best responses from AI models
+-its importance is that it help AI models give clear and concise response to the crafted questions.
+
+Provide an example of vague prompt
+-vague prompt, what is software engineering
+-improved prompt, explain software engineering using simple language easily understood by a 10 year old
+-the improved prompt is more effective as it will provide more detailed and concise information
